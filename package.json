@@ -1,0 +1,24 @@
+{
+  "name": "quick-calculator",
+  "version": "1.0.0",
+  "description": "a basic calculator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davutozgursukuti4531/quick-calculator.git"
+  },
+  "keywords": [
+    "calculator",
+    "math",
+    "MathCalculator"
+  ],
+  "author": "Davut Özgür Süküti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davutozgursukuti4531/quick-calculator/issues"
+  },
+  "homepage": "https://github.com/davutozgursukuti4531/quick-calculator#readme"
+}
