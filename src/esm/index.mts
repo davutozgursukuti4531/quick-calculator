@@ -1,4 +1,4 @@
-import quickCalculator from "../index"
+import { square, squareRoot, exponential } from "../index"
 
 
-export default quickCalculator
+export { square, squareRoot, exponential }
