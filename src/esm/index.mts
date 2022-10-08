@@ -1,4 +1,4 @@
-import { square, squareRoot, exponential } from "../index"
+import { square, squareRoot } from "../index"
 
 
-export { square, squareRoot, exponential }
+export { square, squareRoot }
