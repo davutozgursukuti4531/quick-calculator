@@ -1,5 +1,9 @@
+import numberify from "./Utils/numberify"
+
+
 const square = (num: number) => {
-    return (num * num)
+    const numberifed = numberify(num)
+    return (numberifed * numberifed)
 }
 
 
