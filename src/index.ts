@@ -1,11 +1,11 @@
 import numberify from "./Utils/numberify"
 
 
-const square = (num: number) => {
+const square = (num: number): number => {
     const numberifed = numberify(num)
     return (numberifed * numberifed)
 }
-const squareRoot = (num: number) => {
+const squareRoot = (num: number): number => {
     const numberifed = numberify(num)
     return Nath.sqrt(numberifed)
 }
