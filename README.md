@@ -7,9 +7,13 @@ a basic calculator.
 ```ts
 
 //square
-<QuickCalculator>.square(5)//output: 25
+square(5)//output: 25
 
 
 //square root
-<QuickCalculator>.squareRoot(25)//output: 5
+squareRoot(25)//output: 5
+
+
+//exponential
+exponential(5, 3)//output: 125
 ```
