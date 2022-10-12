@@ -14,7 +14,10 @@ const exponential = (num: number, num2: number): number => {
     const numberifed2 = numberify(num2)
     return Math.pow(numberifed1, numberifed2)
 }
+const random = (min: number, max: number): number => {
+    return Math.floor(Math.random()*(Math.floor(max) - Math.ceil(min) + 1)) + min;
+}
 
 
 
-export { square, squareRoot, exponential }
+export { square, squareRoot, exponential, random }
