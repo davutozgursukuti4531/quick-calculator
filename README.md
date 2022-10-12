@@ -16,4 +16,8 @@ squareRoot(25)//output: 5
 
 //exponential
 exponential(5, 3)//output: 125
+
+
+//random
+random(5, 50)//random number from 5 to 50
 ```
